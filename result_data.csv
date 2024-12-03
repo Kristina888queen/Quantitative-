@@ -1,0 +1,28 @@
+Country,Type of Support,Cost of Living Index,Slavic or not,Average Salary,Border,Refugees from Ukraine recorded in country as of date
+Austria,Full,71.0,No,more than 2000,no,84620.0
+Belgium,Full,72.6,No,more than 2000,no,85465.0
+Bulgaria,Restricted,38.4,Yes,less than 2000,no,67540.0
+Croatia,Full,48.9,Yes,less than 2000,no,27130.0
+Cyprus,Restricted,54.7,No,less than 2000,no,18740.0
+Czechia,Full,48.2,Yes,less than 2000,no,380375.0
+Denmark,Full,84.1,No,more than 2000,no,37825.0
+Estonia,Restricted,53.7,No,less than 2000,no,36535.0
+Finland,Full,73.2,No,more than 2000,no,68620.0
+France,Full,74.1,No,more than 2000,no,64840.0
+Germany,Full,65.6,No,more than 2000,no,1222695.0
+Greece,Restricted,56.2,No,less than 2000,no,32315.0
+Hungary,Restricted,40.7,No,less than 2000,yes,61610.0
+Ireland,Full,76.1,No,more than 2000,no,110960.0
+Italy,Full,66.5,No,more than 2000,no,173870.0
+Latvia,Restricted,48.5,No,less than 2000,no,47285.0
+Lithuania,Restricted,45.6,No,more than 2000,no,47395.0
+Luxembourg,Full,80.5,No,more than 2000,no,3855.0
+Malta,Restricted,67.8,No,more than 2000,no,2565.0
+Netherlands,Full,75.7,No,,no,120100.0
+Poland,Full,39.0,Yes,less than 2000,yes,981335.0
+Portugal,Full,47.9,No,less than 2000,no,64125.0
+Romania,Restricted,35.2,No,less than 2000,yes,172570.0
+Slovakia,Restricted,44.7,Yes,less than 2000,yes,128615.0
+Slovenia,Restricted,53.9,Yes,more than 2000,no,12670.0
+Spain,Full,53.9,No,more than 2000,no,216955.0
+Sweden,Full,71.7,No,more than 2000,no,26655.0
